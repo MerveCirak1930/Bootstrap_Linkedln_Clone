@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/107585170/228075306-abd47e26-36f6-4e57
 
 ## Hesaplarım
 
-[Linkedln Hesabım](https://www.linkedin.com/in/merve-cirak)
-[Github Hesabım](https://www.kodluyoruz.org/)
-[Patika.dev Profilim](https://app.patika.dev/mervecirak)
-[Global AI Hub Profilim](https://globalaihub.com/members/mervecirak/courses/certificates)
++ [Linkedln Hesabım](https://www.linkedin.com/in/merve-cirak)
++ [Github Hesabım](https://github.com/MerveCirak1930)
++ [Patika.dev Profilim](https://app.patika.dev/mervecirak)
++ [Global AI Hub Profilim](https://globalaihub.com/members/mervecirak/courses/certificates)
